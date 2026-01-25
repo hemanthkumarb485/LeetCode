@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Hemanthkumar485/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1446-consecutive-characters](https://github.com/Hemanthkumar485/LeetCode/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1528-shuffle-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2000-reverse-prefix-of-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/2000-reverse-prefix-of-word) |
