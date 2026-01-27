@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Hemanthkumar485/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hemanthkumar485/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Hemanthkumar485/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3396-valid-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/3396-valid-word) |
 ## Trie
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
