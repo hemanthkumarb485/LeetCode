@@ -15,11 +15,11 @@
 // }
 
 class Solution {
-    public int[] twoSum(int[] n, int t) {
-        int num = n.length;
-        for(int i = 1;i < num;i++){
-            for(int j = i;j < num;j++){
-                if(n[j - i] + n[j] == t){
+    public int[] twoSum(int[] nums, int target) {
+        int n = nums.length;
+        for(int i = 1;i < n;i++){
+            for(int j = i;j < n;j++){
+                if(nums[j - i] + nums[j] == target){
                     return new int[] {j-i,j};
                 }
             }
