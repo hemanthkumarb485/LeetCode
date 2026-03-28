@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Hemanthkumar485/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hemanthkumar485/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hemanthkumar485/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
