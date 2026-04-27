@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Hemanthkumar485/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
