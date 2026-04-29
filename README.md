@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Hemanthkumar485/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Hemanthkumar485/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Hemanthkumar485/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0898-transpose-matrix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Hemanthkumar485/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
