@@ -1,10 +1,10 @@
 class Solution {
-    public boolean rotateString(String s, String g) {
-        if(s.length() != g.length()) {
+    public boolean rotateString(String s, String goal) {
+        if(s.length() != goal.length()) {
             return false;
         }
-        String a = s + s;
-        if(a.contains(g)) {
+        String l = s + s;
+        if(l.contains(goal)) {
             return true;
         }
         return false;
