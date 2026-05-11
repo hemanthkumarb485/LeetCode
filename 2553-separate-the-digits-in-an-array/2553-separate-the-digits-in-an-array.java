@@ -1,47 +1,20 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
         List<Integer> al = new ArrayList<>();
-        for(int i : nums) {
-            String s = Integer.toString(i);
-            for(char c : s.toCharArray()) {
-                al.add(c - '0');
+        for(int x : nums) {
+            List<Integer> temp = new ArrayList<>();
+            while(x > 0) {
+                temp.add(x % 10);
+                x /= 10;
+            }
+            for(int i = temp.size() - 1; i >= 0; i--) {
+                al.add(temp.get(i));
             }
         }
-        return al.stream().mapToInt(Integer::intValue).toArray();
+        int[] arr = new int[al.size()];
+        for(int i = 0; i< al.size(); i++) {
+            arr[i] = al.get(i);
+        }
+        return arr;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// class Solution {
-//     public int[] separateDigits(int[] nums) {
-//         List<Integer> al = new ArrayList<>();
-//         int temp = 0;
-//         for(int i : nums) {
-//             if(i >= 10) {
-//                 int a = i%10;
-//                 int b = i/10;
-//                 temp = b;
-//                 al.add(b);
-//                 al.add(a);
-//             }
-//             else {
-//                 al.add(i);
-//             }
-//         }
-//         int[] arr = al.stream().mapToInt(Integer::intValue).toArray();
-//         return arr;
-//     }
-// }
