@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValid(String s) {
-        
         Stack<Character> st=new Stack<>();
         char ch[]=s.toCharArray();
         if(ch.length%2==1){
