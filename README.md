@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Hemanthkumar485/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hemanthkumar485/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
