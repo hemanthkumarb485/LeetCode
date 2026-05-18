@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Hemanthkumar485/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hemanthkumar485/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hemanthkumar485/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Database
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hemanthkumar485/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
