@@ -6,7 +6,7 @@ class Solution {
             sb.reverse();
             String b = sb.toString();
             if(a.equals(b)) {
-                return s;
+                return a;
             }
         }
         return "";
