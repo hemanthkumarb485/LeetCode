@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Hemanthkumar485/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hemanthkumar485/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hemanthkumar485/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Hemanthkumar485/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
