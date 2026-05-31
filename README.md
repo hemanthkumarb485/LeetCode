@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Hemanthkumar485/LeetCode/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hemanthkumar485/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -430,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemanthkumar485/LeetCode/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Hemanthkumar485/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
