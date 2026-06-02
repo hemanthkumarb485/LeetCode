@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hemanthkumar485/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
