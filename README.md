@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2540-minimum-common-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Hemanthkumar485/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Hemanthkumar485/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hemanthkumar485/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Hemanthkumar485/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2574-left-and-right-sum-differences](https://github.com/Hemanthkumar485/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hemanthkumar485/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
 |  |
