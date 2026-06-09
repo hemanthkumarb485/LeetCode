@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hemanthkumar485/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
