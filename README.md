@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hemanthkumar485/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3838-weighted-word-mapping](https://github.com/Hemanthkumar485/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3396-valid-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/3396-valid-word) |
+| [3838-weighted-word-mapping](https://github.com/Hemanthkumar485/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3701-compute-alternating-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/Hemanthkumar485/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
