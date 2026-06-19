@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Hemanthkumar485/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Hemanthkumar485/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Hemanthkumar485/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Hemanthkumar485/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2574-left-and-right-sum-differences](https://github.com/Hemanthkumar485/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hemanthkumar485/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
