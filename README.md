@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Hemanthkumar485/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Hemanthkumar485/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2032-two-out-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
