@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Hemanthkumar485/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Hemanthkumar485/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Hemanthkumar485/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Hemanthkumar485/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Hemanthkumar485/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
