@@ -1,20 +1,20 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int s = 0;
-        int o = 0,e = 0;
-        for(int i = 1;i <= n*2;i++){
-            if(i%2 == 0){
-                e += i;
+        int os = 0;
+        int es = 0;
+        for (int i = 1; i <= n + n; i++) {
+            if (i % 2 == 0) {
+                es += i;
             }
-            else{
-                o += i;
-            } 
+            else {
+                os += i;
+            }
         }
-        while (e != 0) {
-            int temp = e;
-            e = o % e;
-            o = temp;
+        while (es != 0) {
+            int temp = es;
+            es = os % es;
+            os = temp;
         }
-        return o;
+        return os;
     }
 }
