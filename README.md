@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Hemanthkumar485/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Hemanthkumar485/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Hemanthkumar485/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Hemanthkumar485/LeetCode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemanthkumar485/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Hemanthkumar485/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Hemanthkumar485/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Hemanthkumar485/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Hemanthkumar485/LeetCode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemanthkumar485/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Game Theory
