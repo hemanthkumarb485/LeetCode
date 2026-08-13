@@ -1,0 +1,15 @@
+class Solution {
+    public int arraySign(int[] nums) {
+        Arrays.sort(nums);
+        int c = 0;
+        for (int i : nums) {
+            if (i == 0) {
+                return 0;
+            }
+            else if (i < 0) {
+                c++;
+            }
+        }
+        return c % 2 == 0 ? 1 : -1;
+    }
+}
