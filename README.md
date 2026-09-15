@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Hemanthkumar485/LeetCode/tree/master/0175-combine-two-tables) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Hemanthkumar485/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Hemanthkumar485/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 ## Two Pointers
 |  |
 | ------- |
