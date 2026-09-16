@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthkumar485/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthkumar485/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthkumar485/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Hemanthkumar485/LeetCode/tree/master/0278-first-bad-version) |
