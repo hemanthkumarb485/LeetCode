@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Hemanthkumar485/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Hemanthkumar485/LeetCode/tree/master/3830-find-closest-person) |
+| [3871-count-commas-in-range-ii](https://github.com/Hemanthkumar485/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
